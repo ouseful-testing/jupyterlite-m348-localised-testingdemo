@@ -7,17 +7,17 @@ notebook~=7.1.3
 git+https://github.com/r-wasm/jupyterlite-webr-kernel.git
 
 # Branding and OU extensions
-jupyterlab-ou-brand-extension = "^0.2.3" # OU brand extension (favicon, logo)
+jupyterlab-ou-brand-extension==0.2.3
 
 # Notebook cell tools
-jupyterlab-cell-status-extension = "^0.2.2" # cell execution status; accessibility tools
-jupyterlab-empinken-extension = "^0.5.2" # cell background styling
-jupyterlab-myst = "^2.4.0" ## MyST parser and styling (markdown cells)
-jupyterlab-spellchecker = "^0.8.4" ## Spellchecker
+jupyterlab-cell-status-extension==0.2.2
+jupyterlab-empinken-extension==0.5.2
+jupyterlab-myst==2.4.0
+jupyterlab-spellchecker==0.8.4
 
 # File browsing and handling
-jupyterlab-unfold = "^0.3.0" # tree view in files sidebar
-jupyter-archive = "^3.4.0" # archive file download
-jupyterlab-filesystem-access = "^0.6.0" # local filesystem access
+jupyterlab-unfold==0.3.0
+jupyter-archive==3.4.0
+jupyterlab-filesystem-access==0.6.0
 
 #jupyterlite-pyodide-kernel==0.3.1
