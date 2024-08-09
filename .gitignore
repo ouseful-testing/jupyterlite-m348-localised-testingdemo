@@ -1,3 +1,4 @@
 _output
 dist
 .jupyterlite.doit.db
+.DS_Store
