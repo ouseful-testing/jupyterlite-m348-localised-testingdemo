@@ -33,7 +33,7 @@ jobs:
           cp README.md content
           jupyter lite build --contents content --output-dir dist
           cp -r ./packages_wasmbuilt/ dist/repo/
-          cp -r ./packages_wasmbuilt/ dist/files/repo
+          cp -r ./packages_wasmbuilt/ dist/files/repo/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
