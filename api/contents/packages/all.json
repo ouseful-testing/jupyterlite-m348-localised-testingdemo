@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-09-06T19:47:47.501536Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-06T19:47:47.501536Z",
+      "mimetype": null,
+      "name": "M348",
+      "path": "packages/M348",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2024-09-06T19:47:47.469536Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-09-06T19:47:47.469536Z",
+  "mimetype": null,
+  "name": "packages",
+  "path": "packages",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
