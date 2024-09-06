@@ -4,7 +4,8 @@ jupyterlite-core>=0.3.0
 notebook~=7.1.3
 
 # Kernel
-git+https://github.com/r-wasm/jupyterlite-webr-kernel.git
+#git+https://github.com/r-wasm/jupyterlite-webr-kernel.git
+git+https://github.com/ouseful-testing/jupyterlite-webr-kernel.git@th-custom-path
 
 # Branding and OU extensions
 jupyterlab-ou-brand-extension==0.2.3
